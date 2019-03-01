@@ -1,9 +1,6 @@
 # landusenetworks
 Data and code for: 
-Article: Network modularity influences plant reproduction in a mosaic tropical agroecosystem
-Authors: Manu E. Saunders & Romina Rader
-Journal: Proceedings of the Royal Society B (accepted 27 February 2019)
-DOI: 10.1098/rspb.2019.0296
+Saunders ME, Rader R (2019) Network modularity influences plant reproduction in a mosaic tropical agroecosystem. Proceedings of the Royal Society B, DOI: 10.1098/rspb.2019.0296 (accepted 27 February 2019)
 
 Bipartite pollinator-site network analysis.
 
