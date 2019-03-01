@@ -1,7 +1,11 @@
 # landusenetworks
-Data and code for Mareeba land use networks study (Saunders &amp; Rader)
+Data and code for: 
+Article: Network modularity influences plant reproduction in a mosaic tropical agroecosystem
+Authors: Manu E. Saunders & Romina Rader
+Journal: Proceedings of the Royal Society B (accepted 27 February 2019)
+DOI: 10.1098/rspb.2019.0296
 
-Bipartite pollinator--site network analysis.
+Bipartite pollinator-site network analysis.
 
 all4.csv: data for network analyses
 
